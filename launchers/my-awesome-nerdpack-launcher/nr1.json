@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "my-awesome-nerdpack-launcher",
+    "displayName": "KonaCloudTest",
+    "description": "Describe me",
+    "rootNerdletId": "my-awesome-nerdpack-nerdlet"
+}
